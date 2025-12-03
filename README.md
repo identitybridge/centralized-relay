@@ -1,6 +1,6 @@
 # Identity Bridge - Centralized Relay
 
-A minimal, stateless blockchain relay service for commit operations. This is an open-source version that removes all authentication, database, and caching dependencies, making it perfect for self-hosted deployments.
+A minimal, stateless blockchain relay service for commit operations. This is an open-source version that removes all authentication, database, and caching dependencies, making it ~perfect for self-hosted deployments~ something you _may_ be able to use ;)
 
 > ## DISCLAIMER
 
